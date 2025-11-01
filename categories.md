@@ -18,5 +18,4 @@ permalink: /categories/
       {% endfor %}
     </ul>
   {% endfor %}
-  {% endif %}
 </div>
