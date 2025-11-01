@@ -1,18 +1,22 @@
 ---
 layout: default
 ---
-
-<h1>Categories</h1>
+<h2>Categories</h2>
 <ul>
   {% for category in site.categories %}
-    <li>
-      <a href="/categories/#{{ category[0] }}">
-        {% if category[0] == 'Hackerrank' %}
-          HackerRank
-        {% else %}
-          {{ category[0] | capitalize }}
-        {% endif %}
-      </a>
-    </li>
+    <li><a href="/categories/#{{ category[0] }}">{{ category[0] | capitalize }}</a></li>
   {% endfor %}
-</ul>   
+</ul>   replace this <div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
