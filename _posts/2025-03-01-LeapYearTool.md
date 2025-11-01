@@ -40,6 +40,3 @@ or if the year is perfectly divisble by 400 (using modulo to determine if it is)
 year = int(input()) # we ask for the year from the user via a input function and we make it a int variable
 print(is_leap(year)) # then we print the output of the function
 
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
