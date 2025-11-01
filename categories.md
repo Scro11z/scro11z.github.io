@@ -10,7 +10,7 @@ permalink: /categories/
         HackerRank
       {% else %}
         {{ category[0] | capitalize }}
-      {% endfor %}
+      {% endif %}
     </h3>
     <ul>
       {% for post in category[1] %}
@@ -18,4 +18,4 @@ permalink: /categories/
       {% endfor %}
     </ul>
   {% endfor %}
-</div>
+</div>   
