@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leap year identifier
-category: HackerRank
+category: Python
 ---
 
 Hello Scro11z Here I'm going to demonstrate how to write a function in python to identify leap years
