@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOC 1
-category: SOC
+category: TryHackMe
 ---
 
 - SOC Intro - [Video](https://vimeo.com/1134912303?share=copy&fl=sv&fe=ci)
