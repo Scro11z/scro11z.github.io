@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blue Team
-category: Blue team level 1
+title: SOC 1
+category: SOC
 ---
 
 - SOC Intro - [Video](https://vimeo.com/1134912303?share=copy&fl=sv&fe=ci)
