@@ -9,3 +9,4 @@ category: TryHackMe
 - Splunk Basics [Video](https://vimeo.com/1135805913?share=copy&fl=sv&fe=ci)
 - Elastic (ELK) [Video](in Progress)
 - SOAR [Video](https://vimeo.com/1135844661?share=copy&fl=sv&fe=ci)
+- Phising analysis [Video](https://vimeo.com/1136498577?share=copy&fl=sv&fe=ci)
