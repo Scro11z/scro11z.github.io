@@ -1,4 +1,11 @@
-Hello Scro11z here! Today, we’re diving into **radio frequency (RF)**—a cornerstone of modern wireless communication.
+---
+layout: post
+title: Radio Frequency
+category: Electrical Engineering
+---
+
+
+Hello Scro11z here! Today, we’re diving into **radio frequency (RF)** a cornerstone of modern wireless communication.
 
 ### What Is Radio Frequency?
 
