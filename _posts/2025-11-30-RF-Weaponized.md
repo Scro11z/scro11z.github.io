@@ -1,8 +1,12 @@
+---
+layout: post
+title: RF Weaponized
+category: Electrical Engineering
+---
+
 Hey everyone, Scro11z here again diving into how we’ve turned radio frequencies into some seriously powerful tools, both on the battlefield and behind the scenes.
 
 Turns out, once humans figured out how to harness electromagnetic waves, it didn’t take long to weaponize them. Kinda in our nature, right? But seriously modern RF tech is wild. Let’s break it down.
-
----
 
 ### RF Weapons: From Microwaves to Crowd Control
 
@@ -15,8 +19,6 @@ We’re not talking sci-fi anymore these systems are real, deployed, and changin
 - **RapidDestroyer**  The UK’s answer to cheap, efficient defense. For less than **13¢ per shot**, it takes out UAVs with pinpoint microwave strikes. Compare that to million-dollar missiles, and it’s a no-brainer. Automation means one operator can run the whole show.
 
 - **Active Denial System (ADS)**  Ever feel like your skin’s on fire… but it isn’t? That’s ADS. At **95 GHz**, it shoots millimeter waves that heat the top layer of skin (just 1/64 inch deep)  unbearable, but safe. Used for crowd control up to **700 meters** away. Non-lethal, but *very* persuasive.
-
----
 
 ### Surveillance & Privacy
 
@@ -39,7 +41,5 @@ UAVs aren’t just for delivery some are packing RF sniffers and jammers.
 - And some carry Stingray-like tech, scooping up cell data during low flights. Imagine a drone hovering over a protest, silently vacuuming phone data. That’s not paranoia  it’s possible.
 
 Officially, these are for counter-drone ops and border security. But the potential for abuse? Huge.
-
----
 
 So yeah RF tech is everywhere. It can knock out a missile, disperse a crowd, or track your every move. The future’s here… and it’s *invisible*.
