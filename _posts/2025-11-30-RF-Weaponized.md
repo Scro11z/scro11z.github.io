@@ -42,4 +42,4 @@ UAVs aren’t just for delivery some are packing RF sniffers and jammers.
 
 Officially, these are for counter-drone ops and border security. But the potential for abuse? Huge.
 
-So yeah RF tech is everywhere. It can knock out a missile, disperse a crowd, or track your every move. The future’s here… and it’s *invisible*.
+So yeah RF tech is everywhere. It can knock out a missile, disperse a crowd, or track your every move, The wonders of Electro Magnetic Frequencies lol.
