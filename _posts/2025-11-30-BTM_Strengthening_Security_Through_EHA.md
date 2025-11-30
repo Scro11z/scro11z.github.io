@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Behavioral Threat Modeling Strengthening Security Through Ethical Human Analysis
+title: Behavioral Threat Modeling, Strengthening Security Through Ethical Human Analysis
 category: Red Teaming
 ---
 
