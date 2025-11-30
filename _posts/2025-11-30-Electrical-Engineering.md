@@ -1,3 +1,9 @@
+---
+layout: post
+title: How Transistors and Logic Gates Power Computing
+category: Electrical Engineering
+---
+
 So, we all know computers run on bits 1s and 0s. But what do those actually represent?
 
 At the physical level, a **bit** is represented by the presence or absence of electrical voltage in a circuit. A **1** means there's a high voltage (typically around 3.3V or 5V), and a **0** means low or no voltage (close to 0V). This binary state is how computers encode and process all information.
