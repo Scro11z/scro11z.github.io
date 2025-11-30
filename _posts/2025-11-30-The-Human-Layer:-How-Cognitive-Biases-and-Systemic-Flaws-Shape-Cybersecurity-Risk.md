@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Human Layer: How Cognitive Biases and Systemic Flaws Shape Cybersecurity Risk
+title: The Human Layer, How Cognitive Biases and Systemic Flaws Shape Cybersecurity Risk
 category: Red Teaming
 ---
 Understanding that humans are inherently fallible is essential when evaluating system security. Every technological defense whether protecting intellectual property, financial assets, or sensitive data is ultimately designed, implemented, and maintained by people. Since humans are susceptible to cognitive biases, fatigue, and oversight, even the most robust architectures can contain latent weaknesses rooted in human error.
