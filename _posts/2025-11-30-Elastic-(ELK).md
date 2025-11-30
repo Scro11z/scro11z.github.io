@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SOC 1
+title: Elastic (ELK)
 category: Blue Teaming
 ---
 
