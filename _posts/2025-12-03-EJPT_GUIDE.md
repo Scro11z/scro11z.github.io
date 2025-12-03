@@ -1,8 +1,15 @@
+---
+layout: post
+title: EJPT Guide
+category: Red Teaming
+---
+
+
 Alright fam, Scro11z back at it.
 
-So you’re thinking about taking the **eJPT**? Cool. I took it before I even had a website, didn’t write a walkthrough — *my bad*. But I’m here now to drop the real tea on what it’s actually like in **2025**, not some outdated blog post.
+So you’re thinking about taking the **eJPT**? Cool. I took it before I even had a website, didn’t write a walkthrough *my bad*. But I’m here now to drop the real tea on what it’s actually like in **2025**, not some outdated blog post.
 
-Look — yeah, people hype it up, act like it’s OSCP-level hard. Nah. It’s **hands-on**, yeah, but if you know your basics and don’t panic, you’ll be fine.
+Look yeah, people hype it up, act like it’s OSCP-level hard. Nah. It’s **hands-on**, yeah, but if you know your basics and don’t panic, you’ll be fine.
 
 ---
 
