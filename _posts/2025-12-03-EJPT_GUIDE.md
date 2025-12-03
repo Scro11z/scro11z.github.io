@@ -15,7 +15,7 @@ Look yeah, people hype it up, act like it’s OSCP-level hard. Nah. It’s **han
 
 ### Know Your Shit (And Your Gaps)
 
-Everybody learns different. Some people watch videos. Some read. I **type commands until they stick**. You gotta figure out how *you* learn.
+Everybody learns different. Some people watch videos. Some read. I **Jump into the flames till it get it**. You gotta figure out how *you* learn.
 
 But here’s the truth: **if you can’t move around Linux in terminal, stop. Go learn that first.** No shame. I started with **Hackersploit** — their [Linux Essentials](https://hackersploit.org/linux-essentials-for-hackers/) course? *Chef’s kiss*. Still use stuff from it.
 
