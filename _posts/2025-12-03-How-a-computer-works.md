@@ -1,3 +1,9 @@
+---
+layout: post
+title: How a computer works
+category: Tech Support
+---
+
 ## How a Computer Works: A Clear Breakdown
 
 Understanding the core components of a computer demystifies how it functions. Knowing each part's role helps in troubleshooting and appreciates the machine's complexity.
