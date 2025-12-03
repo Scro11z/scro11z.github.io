@@ -13,7 +13,7 @@ Look yeah, people hype it up, act like it’s OSCP-level hard. Nah. It’s **han
 
 ---
 
-### 🧠 Know Your Shit (And Your Gaps)
+### Know Your Shit (And Your Gaps)
 
 Everybody learns different. Some people watch videos. Some read. I **type commands until they stick**. You gotta figure out how *you* learn.
 
@@ -21,7 +21,7 @@ But here’s the truth: **if you can’t move around Linux in terminal, stop. Go
 
 ---
 
-### 🔧 Tools You Gotta Know (Like, Actually Know ‘Em)
+### Tools You Gotta Know (Like, Actually Know ‘Em)
 
 #### **Nmap? Yeah, but not just “nmap (ip)”**
 You gotta go deeper.  
@@ -51,7 +51,7 @@ Or use [revshells.com](https://www.revshells.com) — cheat code for noobs (and 
 
 ---
 
-### 🔐 Priv Esc — SUID, GTFOBins, LinPEAS
+### Priv Esc — SUID, GTFOBins, LinPEAS
 
 Once you’re in, you’re probably not root. So **escalate**.
 
@@ -61,7 +61,7 @@ Once you’re in, you’re probably not root. So **escalate**.
 
 ---
 
-### 🌐 Web Stuff? Yeah, You Gotta Hack That IIS Server
+### Web Stuff? Yeah, You Gotta Hack That IIS Server
 
 They *will* throw you a **Windows IIS box**. Probably running some old ASP or PHP thing.
 
@@ -72,7 +72,7 @@ They *will* throw you a **Windows IIS box**. Probably running some old ASP or PH
 
 ---
 
-### 🧪 Exam Tips (From Someone Who’s Been There)
+### Exam Tips (From Someone Who’s Been There)
 
 - **It’s open book. Use it.** Google, notes, Hackersploit, INE — all fair game.
 - **Enumerate like a maniac.** Run scans, save output, check everything twice.
@@ -82,7 +82,7 @@ They *will* throw you a **Windows IIS box**. Probably running some old ASP or PH
 
 ---
 
-### 💬 Final Thoughts
+### Final Thoughts
 
 The eJPT? It’s not about being a genius. It’s about **process**.  
 Recon → Scan → Exploit → Escalate → Pivot → Repeat.
