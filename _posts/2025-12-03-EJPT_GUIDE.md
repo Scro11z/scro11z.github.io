@@ -5,9 +5,9 @@ category: Red Teaming
 ---
 
 
-Alright fam, Scro11z back at it.
+Scro11z back at it.
 
-So you’re thinking about taking the **eJPT**? Cool. I took it before I even had a website, didn’t write a walkthrough *my bad*. But I’m here now to drop the real tea on what it’s actually like in **2025**, not some outdated blog post.
+So you’re thinking about taking the **eJPT**? Cool. I took it before I even had a website, didn’t write a walkthrough (*my bad*). But I’m here now to guide you through it.
 
 Look yeah, people hype it up, act like it’s OSCP-level hard. Nah. It’s **hands-on**, yeah, but if you know your basics and don’t panic, you’ll be fine.
 
@@ -15,9 +15,9 @@ Look yeah, people hype it up, act like it’s OSCP-level hard. Nah. It’s **han
 
 ### Know Your Shit (And Your Gaps)
 
-Everybody learns different. Some people watch videos. Some read. I **Jump into the flames till i get it**. You gotta figure out how *you* learn.
+Everybody learns different. Some people watch videos. Some read. **I Jump into the flames till i get it**. You gotta figure out how *you* learn.
 
-But here’s the truth: **if you can’t move around Linux in terminal, stop. Go learn that first.** No shame. I started with **Hackersploit** their [Linux Essentials](https://hackersploit.org/linux-essentials-for-hackers/) course? *Chef’s kiss*. Still use stuff from it.
+But here’s the truth: **if you can’t move around Linux in the terminal, stop. Go learn that first.** No shame. I started with **Hackersploit** their [Linux Essentials](https://hackersploit.org/linux-essentials-for-hackers/) course? *Chef’s kiss*. Still use stuff from it.
 
 ---
 
