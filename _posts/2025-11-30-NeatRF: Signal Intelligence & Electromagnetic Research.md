@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RF Weaponized
+title: NeatRF: Signal Intelligence & Electromagnetic Research
 category: Electrical Engineering
 ---
 
